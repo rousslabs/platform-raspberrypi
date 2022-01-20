@@ -14,7 +14,7 @@
     "variant": "ADAFRUIT_FEATHER_RP2040",
     "arduino": {
       "earlephilhower": {
-        "variant": "adafruit_feather",
+        "variant": "adafruit_feather_RP2040",
         "boot2_source": "boot2_w25q080_2_padded_checksum.S",
         "usb_vid": "0x2e8a",
         "usb_pid": "0x000a",
